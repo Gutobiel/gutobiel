@@ -1,72 +1,85 @@
+# 👋 Gutobiel — Desenvolvedor Full-Stack
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/Gutobiel"> 🔗
-  https://gitfollio.vercel.app/Gutobiel
-</a>
+🔗 **Portfólio:** https://gitfollio.vercel.app/Gutobiel  
 
-# Olá — eu sou o Gutobiel 👋
-Sou desenvolvedor web full‑stack com foco em aplicações front‑end e back‑end. Construo desde sites institucionais até APIs RESTful e aplicações com agentes de IA. Tenho forte experiência em automação de processos — incluindo automatização de atendimentos e vendas via WhatsApp — integração de APIs e implantação de soluções escaláveis.
+Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, atuando tanto no **front-end** quanto no **back-end**. Trabalho com **APIs RESTful**, **automação de processos**, **bots de atendimento** e **integrações com serviços externos**, incluindo fluxos de vendas e atendimento via **WhatsApp**.
 
 ---
 
-## Contato (Social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutobiel/)  
-[![Email](https://img.shields.io/badge/Email-develop.ags%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:develop.ags@gmail.com)  
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutobiel/)
+[![Email](https://img.shields.io/badge/Email-develop.ags%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:develop.ags@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Gutobiel-black?style=flat&logo=github&logoColor=white)](https://github.com/Gutobiel)
 
 ---
 
-## Sobre mim
-- Experiência em front‑end (layouts responsivos, SPAs) e back‑end (APIs RESTful).
-- Trabalho com projetos que envolvem automação de processos, bots de atendimento, e automação de vendas por WhatsApp.
-- Já atuei com contribuições em projetos que usam Next.js e Nest.js (freelas/contribuições), além dos stacks presentes nos meus repositórios.
+## 🧠 Sobre mim
+- Desenvolvimento de **SPAs**, dashboards e sistemas web responsivos  
+- Criação de **APIs RESTful** seguras e bem documentadas  
+- **Automação de processos** e bots (atendimento e vendas via WhatsApp)  
+- Integração com **APIs de terceiros** e serviços externos  
+- Experiência com **Next.js** e **NestJS** em projetos e contribuições  
 
 ---
 
-## Languages & Tech (Badges)
-<!-- Linguagens / frameworks -->
-[![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+## 🚀 Stack Tecnológica
+
+### 🧩 Linguagens
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/) 
 
-<!-- Frameworks backend -->
+---
+
+### 🎨 Front-end
+[![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+---
+
+### ⚙️ Back-end
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ---
 
-## LIST (databases, ambientes, testing, tools)
-- Databases: SQLITE, MYSQL, POSTGRESQL, SQLSERVER
-- Container / Infra: DOCKER
-- Version control: Git
-- Testing & CI: pytest
-- API / Ferramentas: POSTMAN, APIDOG
+### 🗄️ Bancos de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## O que eu faço bem
-- Desenvolvimento front‑end moderno com foco em experiência do usuário e performance.
-- Construção e manutenção de APIs RESTful em Python (Django, FastAPI).
-- Automação de processos, incluindo fluxos de atendimento e automação de vendas por WhatsApp (integrações, bots e automações).
-- Integração com serviços externos e construção de pipelines de deploy e testes.
+### 🛠️ Ferramentas & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![APIDog](https://img.shields.io/badge/APIDog-3E4E88?style=flat)
 
 ---
 
-## Como colaborar / contratar
-- Para propostas, freelas ou dúvidas técnicas, me encontre no LinkedIn ou envie um e‑mail:
-  - LinkedIn: https://www.linkedin.com/in/gutobiel/
-  - E‑mail: develop.ags@gmail.com
+## ✅ Principais Competências
+- Front-end moderno com foco em **UX, performance e responsividade**
+- Back-end em **Python** e **Node.js** com arquitetura limpa
+- **Automação de fluxos de atendimento e vendas**
+- Integrações com APIs externas (pagamentos, mensageria, CRMs)
+- Containers, versionamento e pipelines de testes
 
 ---
 
-Obrigado por visitar o perfil — sinta‑se à vontade para explorar meus repositórios e abrir uma issue ou entrar em contato!
+## 🤝 Como colaborar ou contratar
+Para freelas, parcerias ou propostas técnicas:
+- LinkedIn: https://www.linkedin.com/in/gutobiel/
+- E-mail: develop.ags@gmail.com
 
-![profile views](https://camo.githubusercontent.com/6dd07216efa4603d0bc10b230a463f4d9619da938b4aacbc9e1d11321f7a2a15/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d6d6f726f7a616f76267374796c653d666f722d7468652d626164676526636f6c6f723d6f72616e6765)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gutobiel&style=for-the-badge&color=orange)
 
 <!-- GitFolio:start
 {
