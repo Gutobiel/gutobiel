@@ -1,8 +1,6 @@
 # 👋 Gutobiel — Desenvolvedor Full-Stack 
 🔗 **Portfólio:** https://gitfollio.vercel.app/Gutobiel
 
-## <img width="25" height="25" alt="ags-logo" src="https://github.com/user-attachments/assets/2522a26f-8757-4545-bec0-e40d19940668"/> **Fundador da AGS Tech Solutions:** https://ags-tech-solutions.vercel.app/
-
 ---
 
 ## 👨‍💻 Sobre
@@ -84,6 +82,9 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 - LinkedIn: https://www.linkedin.com/in/gutobiel/
 - E-mail: develop.ags@gmail.com
 
+---
+
+## <img width="30" height="30" alt="ags-logo" src="https://github.com/user-attachments/assets/2522a26f-8757-4545-bec0-e40d19940668"/> **Fundador da AGS Tech Solutions:** https://ags-tech-solutions.vercel.app/
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gutobiel&style=for-the-badge&color=orange)
