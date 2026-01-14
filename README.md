@@ -1,9 +1,8 @@
 # 👋 Gutobiel — Desenvolvedor Full-Stack
 
 🔗 **Portfólio:** https://gitfollio.vercel.app/Gutobiel  
-🏢 **Fundador / Desenvolvedor —**[![AGS Tech Solutions](https://img.shields.io/badge/AGS_Tech_Solutions-1f2937?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FGutobiel%2FSEU_REPO%2Fmain%2Fassets%2FDesign_sem_nome__2_-removebg-preview.png&logoWidth=28)](https://ags-tech-solutions.vercel.app/)
-
-  https://ags-tech-solutions.vercel.app/
+🏢 **Fundador / Desenvolvedor —AGS Tech Solutions:** https://ags-tech-solutions.vercel.app/
+<img width="500" height="500" alt="ags-logo" src="https://github.com/user-attachments/assets/2522a26f-8757-4545-bec0-e40d19940668" />
 
 
 ---
