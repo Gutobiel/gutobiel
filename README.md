@@ -23,6 +23,7 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-)
 
 ---
 
@@ -36,6 +37,7 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?)
 
 ---
 
