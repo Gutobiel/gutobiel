@@ -2,7 +2,9 @@
 
 🔗 **Portfólio:** https://gitfollio.vercel.app/Gutobiel  
 
-Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, atuando tanto no **front-end** quanto no **back-end**. Trabalho com **APIs RESTful**, **automação de processos**, **bots de atendimento** e **integrações com serviços externos**, incluindo fluxos de vendas e atendimento via **WhatsApp**.
+## 👨‍💻 Sobre
+
+Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, atuando tanto no **front-end** quanto no **back-end**. Trabalho com **APIs RESTful**, **automação de processos**, **bots de atendimento** e **integrações com serviços externos**, incluindo fluxos de vendas e atendimento via **WhatsApp**, agora estudando e desenvolvendo **Agentes de IA**.
 
 ---
 
@@ -10,15 +12,6 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutobiel/)
 [![Email](https://img.shields.io/badge/Email-develop.ags%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:develop.ags@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Gutobiel-black?style=flat&logo=github&logoColor=white)](https://github.com/Gutobiel)
-
----
-
-## 🧠 Sobre mim
-- Desenvolvimento de **SPAs**, dashboards e sistemas web responsivos  
-- Criação de **APIs RESTful** seguras e bem documentadas  
-- **Automação de processos** e bots (atendimento e vendas via WhatsApp)  
-- Integração com **APIs de terceiros** e serviços externos  
-- Experiência com **Next.js** e **NestJS** em projetos e contribuições  
 
 ---
 
@@ -53,6 +46,10 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
+### 🤖 Inteligencia Artificial
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-)
 
 ### 🛠️ Ferramentas & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -60,6 +57,8 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![APIDog](https://img.shields.io/badge/APIDog-3E4E88?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-)
+
 
 ---
 
@@ -67,6 +66,7 @@ Sou desenvolvedor **full-stack** com foco em aplicações **web escaláveis**, a
 - Front-end moderno com foco em **UX, performance e responsividade**
 - Back-end em **Python** e **Node.js** com arquitetura limpa
 - **Automação de fluxos de atendimento e vendas**
+- Desenvolvimento de **Agentes de IA**
 - Integrações com APIs externas (pagamentos, mensageria, CRMs)
 - Containers, versionamento e pipelines de testes
 
