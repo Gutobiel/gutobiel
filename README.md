@@ -1,5 +1,5 @@
 # 👋 Gutobiel — Desenvolvedor Full-Stack 
-🔗 **Portfólio:** <a href="[https://gitfollio.vercel.app/Gutobiel](https://gutobiel.vercel.app/)"> 🔗
+🔗 **Portfólio:** <a href="https://gutobiel.vercel.app/"> 🔗
   https://gitfollio.vercel.app/Gutobiel
 </a>
 ---
